@@ -1,0 +1,38 @@
+
+/* rodos os imports tem de ser colocados no inicio do CSS*/
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Oswald:wght@200..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Oswald:wght@200..700&family=Playwrite+BE+VLG:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Noto+Sans+JP:wght@100..900&family=Oswald:wght@200..700&family=Playwrite+BE+VLG:wght@100..400&display=swap');
+
+
+body{
+    background-color: rgb(175, 170, 32);
+}
+
+.figura{
+width: 200px;
+
+
+}
+
+/* classe para configuração de fonte */
+.fonte{
+color: brown;
+font-size: 20px;
+font-family: "Oswald", sans-serif;
+}
+.fontesp{
+    color: rgb(54, 12, 192);
+    font-size: 20px;
+    font-family: "Playwrite BE VLG", cursive;
+}
+ 
+.fonti{
+
+    color: rgb(12, 147, 192);
+    font-size: 20px;
+    font-family: "Kalnia Glaze", serif;
+}
+
